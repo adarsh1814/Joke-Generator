@@ -4,4 +4,4 @@ Welcome to the Random Joke Generator GitHub repository! This project is a simple
 #Features
 Fetches random jokes from a third-party API.
 Simple and intuitive user interface.
-Light-weight and easy to deploy.
+Lightweight and easy to deploy.
